@@ -21,23 +21,6 @@ Welcome to **SC Systems Lab**, my personal technology portfolio. Here I document
 * Technical Support and Hardware
 * Home Labs
 
-## Featured Project
-
-### [Project 001 — Home Network Mapping](https://github.com/SebastianCastillo-d3v/project-001-home-network-mapping)
-
-A practical networking project focused on discovering, analyzing, and documenting the devices and structure of a home network.
-
-**Topics covered:**
-
-* Network configuration analysis
-* Connectivity testing
-* Device discovery
-* Port scanning
-* Route tracing
-* Network topology documentation
-
-**Tools used:** Windows PowerShell, Nmap, Git, GitHub, and diagrams.net.
-
 ## Currently Learning
 
 * Networking fundamentals
