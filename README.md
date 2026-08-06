@@ -1,4 +1,4 @@
-# Hi, I'm Sebastian Castillo 👋
+# Hi, I'm Sebastian Castillo 
 
 ### Computer Systems Engineering Student | Cybersecurity, Networking & Backend Development
 
@@ -6,11 +6,11 @@ Welcome to **SC Systems Lab**, my personal technology portfolio. Here I document
 
 ## About Me
 
-* 🎓 Computer Systems Engineering student specializing in Software.
-* 🔐 Learning cybersecurity through practical laboratories and personal projects.
-* 🌐 Interested in networking, system administration, and IT infrastructure.
-* 💻 Developing my backend programming skills.
-* 📚 Focused on learning by building, documenting, and sharing my work.
+* omputer Systems Engineering student specializing in Software.
+* Learning cybersecurity through practical laboratories and personal projects.
+* Interested in networking, system administration, and IT infrastructure.
+* Developing my backend programming skills.
+* Focused on learning by building, documenting, and sharing my work.
 
 ## Areas of Interest
 
